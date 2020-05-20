@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trillo/static/css/main.5aa7dafa.chunk.css",
+    "main.js": "/trillo/static/js/main.a6ea2c2c.chunk.js",
+    "main.js.map": "/trillo/static/js/main.a6ea2c2c.chunk.js.map",
+    "runtime-main.js": "/trillo/static/js/runtime-main.007b45bf.js",
+    "runtime-main.js.map": "/trillo/static/js/runtime-main.007b45bf.js.map",
+    "static/js/2.30b57d8a.chunk.js": "/trillo/static/js/2.30b57d8a.chunk.js",
+    "static/js/2.30b57d8a.chunk.js.map": "/trillo/static/js/2.30b57d8a.chunk.js.map",
+    "index.html": "/trillo/index.html",
+    "precache-manifest.438692e1f7255819f272206e5014240c.js": "/trillo/precache-manifest.438692e1f7255819f272206e5014240c.js",
+    "service-worker.js": "/trillo/service-worker.js",
+    "static/css/main.5aa7dafa.chunk.css.map": "/trillo/static/css/main.5aa7dafa.chunk.css.map",
+    "static/js/2.30b57d8a.chunk.js.LICENSE.txt": "/trillo/static/js/2.30b57d8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.007b45bf.js",
+    "static/js/2.30b57d8a.chunk.js",
+    "static/css/main.5aa7dafa.chunk.css",
+    "static/js/main.a6ea2c2c.chunk.js"
+  ]
+}
